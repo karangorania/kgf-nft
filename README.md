@@ -34,7 +34,7 @@ create .env file in root directory.
 - [Node](https://nodejs.org/en/)
 - [Hardhat](https://hardhat.org/)
 - [Solidity](https://docs.soliditylang.org/)
-- [Openzepplin](https://openzeppelin.com/)
+- [Openzeppelin](https://openzeppelin.com/)
 
 ## Check on Rinkeby Explorer
 
