@@ -30,7 +30,7 @@ contract Kgf is ERC721URIStorage {
         
         uint256 newItemId = tokenIds.current();
         _mint(msg.sender, newItemId);
-        _setTokenURI(newItemId, 'https://jsonkeeper.com/b/Y4F7');
+        _setTokenURI(newItemId, 'https://jsonkeeper.com/b/M3ZD');
 
         return newItemId;
 
