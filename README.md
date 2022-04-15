@@ -16,7 +16,8 @@ create .env file in root directory.
 -Get Your API Key
 
 - [Alchemy](https://alchemy.com/?r=36af7883c4699196)
-  -Get Your Rinkeby Faucet
+
+-Get Your Rinkeby Faucet
 
 - [Ropsten Faucet](https://faucets.chain.link/rinkeby)
 
