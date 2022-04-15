@@ -39,7 +39,11 @@ create .env file in root directory.
 
 ## Check on Rinkeby Explorer
 
-- [Rinkeby Explorer](https://rinkeby.etherscan.io/address/0xCc2BF76b06995081239991A2E4732d48b67470f1)
+- [Rinkeby Explorer](https://rinkeby.etherscan.io/address/0xad53fD4d73a2B18b4c5D9b494075F1B4985633c5)
+
+## Check on Rarible
+
+- [Rarible](https://rinkeby.rarible.com/user/0x55eca4d519ca2bdc60c8f886ab00b5281772e517/owned)
 
 ## Run Locally
 
