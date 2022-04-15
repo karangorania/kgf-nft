@@ -45,6 +45,10 @@ create .env file in root directory.
 
 - [Rarible](https://rinkeby.rarible.com/user/0x55eca4d519ca2bdc60c8f886ab00b5281772e517/owned)
 
+## Check on Opensea
+
+- [Opensea](https://testnets.opensea.io/assets/0x54153ac4ce116285751ef4ee424dd13135250b9d/1)
+
 ## Run Locally
 
 Clone the project
